@@ -28,3 +28,7 @@ div4[class*="box--"]{
     border: 2px solid black;
     background-color: red;
 }
+.ciao{
+    max-width: 1200px;
+    margin:auto;
+}

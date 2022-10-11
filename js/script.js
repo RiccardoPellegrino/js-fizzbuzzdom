@@ -4,6 +4,7 @@ let html = '';
 
 const div = document.querySelector("div");
 div.className= div.classList + " ciao ";
+console.log(div);
 
 for (let i = 1; i <= 100; i++) {
 
